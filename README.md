@@ -5,9 +5,9 @@ Allows user to scrape , download and store tweets.
 python, Mongodb Atlas, snscrape, streamlit
 
 # installations
-vscode
-create account in mogodb
-pip install snscrape pandas pymongo streamlit (in terminal)
+1. vscode
+2. create account in mogodb
+3. pip install snscrape pandas pymongo streamlit ( Terminal command )
 
 
 # program workflow
