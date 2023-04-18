@@ -5,13 +5,13 @@ This solution meet the requirements by allowing the user to search for a keyword
 # This Program deals with
 python, Mongodb Atlas, snscrape, streamlit, vs code
 
-# installations
+# Installations
 1. vscode
 2. create account in mogodb
 3. pip install snscrape pandas pymongo streamlit ( Terminal command )
 
 
-# program workflow
+# Program Workflow
 1. Import the required libraries
 2. from pymongo import MongoClient
 3. Define a function to scrape the twitter data based on the keyword or hashtag, date range, and tweet count
