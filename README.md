@@ -7,7 +7,7 @@ python, Mongodb Atlas, snscrape, streamlit, vs code
 
 # Installations
 1. vscode
-2. create account in mogodb
+2. create account in Mogodb Atlas
 3. pip install snscrape pandas pymongo streamlit ( Terminal command )
 
 
