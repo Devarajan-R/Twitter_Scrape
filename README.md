@@ -2,7 +2,7 @@
 Allows user to scrape , download and store tweets.
 This solution meet the requirements by allowing the user to search for a keyword or hashtag, select a date range, limit the tweet count, scrape the tweets, display them in the page, insert them into the MongoDB database, and download them in CSV and JSON formats.
 
-# This Program involves
+# This Program deals with
 python, Mongodb Atlas, snscrape, streamlit, vs code
 
 # installations
