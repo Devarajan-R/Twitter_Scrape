@@ -1,5 +1,6 @@
 # Twitter_Scrape
 Allows user to scrape , download and store tweets.
+This solution meet the requirements by allowing the user to search for a keyword or hashtag, select a date range, limit the tweet count, scrape the tweets, display them in the page, insert them into the MongoDB database, and download them in CSV and JSON formats.
 
 # used models
 python, Mongodb Atlas, snscrape, streamlit
@@ -17,14 +18,12 @@ python, Mongodb Atlas, snscrape, streamlit
 4. create a list to hold the scraped tweets
 5. use snscrape to scrape the tweets based on the search criteria
 6. create a pandas dataframe from the scraped tweets
-7. connect to the MongoDB database
+7. connect to the MongoDB Atlas database
 8. insert the tweets dataframe into the MongoDB collection
 9. set the app title
 10. define the search criteria inputs
 11. scrape the tweets based on the search criteria
 12. insert the scraped tweets into the MongoDB database
 13. download the scraped tweets in CSV and JSON formats
-14. Run the Streamlit app:
-
-
-This solution meet the requirements by allowing the user to search for a keyword or hashtag, select a date range, limit the tweet count, scrape the tweets, display them in the page, insert them into the MongoDB database, and download them in CSV and JSON formats. The code is also modular, with each functional block serving a specific purpose.
+14. Run the Streamlit app
+ 
