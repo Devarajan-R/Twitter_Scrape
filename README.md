@@ -6,7 +6,7 @@ This solution meet the requirements by allowing the user to search for a keyword
 python, Mongodb Atlas, snscrape, streamlit, vs code
 
 # Installations
-1. vscode
+1. vscode or pycharm
 2. create account in Mogodb Atlas
 3. pip install snscrape pandas pymongo streamlit ( Terminal command )
 
